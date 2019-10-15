@@ -1,2 +1,5 @@
 # IU_STEM2019_Research
-My own code used for research
+
+
+Project: Predicting whole brain tumor recurrence with machine learning.
+Author: Roshan Sundar
